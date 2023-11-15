@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaExamen</string>
+    <string name="name_recipe">Nombre Receta</string>
+    <string name="name_ingredient">Nombre Ingrediente</string>
+    <string name="camera_button">Cámara</string>
+    <string name="save_button">Guardar</string>
+    <string name="recipe_button">Ver Recetas</string>
+
+</resources>
